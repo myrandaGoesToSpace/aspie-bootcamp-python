@@ -1,5 +1,3 @@
-# testing github import
+# Example Python file
 
-def main():
-
-main()
+print("hello!")
